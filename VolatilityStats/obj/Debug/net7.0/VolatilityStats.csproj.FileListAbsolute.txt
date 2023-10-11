@@ -1,0 +1,12 @@
+C:\Work\InvestTools\VolatilityStats\bin\Debug\net7.0\VolatilityStats.deps.json
+C:\Work\InvestTools\VolatilityStats\bin\Debug\net7.0\VolatilityStats.dll
+C:\Work\InvestTools\VolatilityStats\bin\Debug\net7.0\VolatilityStats.pdb
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.csproj.AssemblyReference.cache
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.AssemblyInfoInputs.cache
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.AssemblyInfo.cs
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.csproj.CoreCompileInputs.cache
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.dll
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\refint\VolatilityStats.dll
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\VolatilityStats.pdb
+C:\Work\InvestTools\VolatilityStats\obj\Debug\net7.0\ref\VolatilityStats.dll

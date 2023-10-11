@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHnLN7kGlklcgwJxfqs87F4iku2EC+R7KMHpU1fPgpUVlUu/Ixqe11jLYLOqa2duFs7Lh/DLzvjYFENsVwAFYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\InvestTools\\VolatilityStats\\VolatilityStats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angry\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

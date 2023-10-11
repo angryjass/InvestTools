@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolatilityStats", "VolatilityStats\VolatilityStats.csproj", "{5336F20B-8419-49CC-9542-7CA84935F400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvestToolsBot", "VolatilityStatsBot\InvestToolsBot.csproj", "{011A9C14-8F8D-4C70-858B-A81F2DA470D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5336F20B-8419-49CC-9542-7CA84935F400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5336F20B-8419-49CC-9542-7CA84935F400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5336F20B-8419-49CC-9542-7CA84935F400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5336F20B-8419-49CC-9542-7CA84935F400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{011A9C14-8F8D-4C70-858B-A81F2DA470D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011A9C14-8F8D-4C70-858B-A81F2DA470D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011A9C14-8F8D-4C70-858B-A81F2DA470D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011A9C14-8F8D-4C70-858B-A81F2DA470D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E188B2-92C8-4D22-9433-F3CAA00723F3}
+	EndGlobalSection
+EndGlobal
